@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@preact/signals": "2.4.0",
-    "preact": "10.27.2"
+    "bootstrap": "^5.3.8",
+    "preact": "^10.29.1",
+    "react-bootstrap": "^2.10.10",
+    "wouter-preact": "^3.9.0"
   },
   "devDependencies": {
     "@preact/preset-vite": "2.9.4",
